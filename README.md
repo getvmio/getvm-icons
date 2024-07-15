@@ -1,6 +1,6 @@
 # GetVM Playground Icons
 
-This repository contains the icons used in the GetVM Playground. Over 400+ programming language icons, providing SVG and PNG formats.
+This repository contains the icons used in the [GetVM Playground](https://getvm.io/playgrounds). Over 400+ programming language icons, providing SVG and PNG formats.
 
 [![](https://data.jsdelivr.com/v1/package/gh/getvmio/getvm-icons/badge)](https://www.jsdelivr.com/package/gh/getvmio/getvm-icons)
 
