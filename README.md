@@ -12,7 +12,7 @@ You can use the icons by accessing the [JSdelivr CDN](https://www.jsdelivr.com/p
 
 | Logo | Raw SVG | Masked PNG |
 | --- | --- | --- |
-| Linux | <img src="https://cdn.jsdelivr.net/gh/getvmio/getvm-icons/logos/linux.svg" width="64" height="64"> | <img src="https://cdn.jsdelivr.net/gh/getvmio/getvm-icons/icons/linux.png" width="64" height="64">
+| [Linux](https://getvm.io/playgrounds/vnc-ubuntu:2204) | <img src="https://cdn.jsdelivr.net/gh/getvmio/getvm-icons/logos/linux.svg" width="64" height="64"> | <img src="https://cdn.jsdelivr.net/gh/getvmio/getvm-icons/icons/linux.png" width="64" height="64">
 
 ## Adding New Icons
 
