@@ -138,7 +138,7 @@ def process_logos(base_icon_paths, raw_logos_dir, output_dir):
 
 # 使用示例
 base_icon_paths = ["layer0.png", "layer1.png", "layer2.png"]
-raw_logos_dir = "raw-logos"
-output_dir = "logos"
+raw_logos_dir = "logos"
+output_dir = "icons"
 
 process_logos(base_icon_paths, raw_logos_dir, output_dir)
