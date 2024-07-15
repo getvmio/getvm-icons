@@ -8,7 +8,7 @@ This repository contains the icons used in the [GetVM Playground](https://getvm.
 
 All raw SVG files are in the `logos` folder. The masked icons are in the `icons` folder.
 
-You can use the icons by accessing the [JSdelivr CDN](https://www.jsdelivr.com/package/gh/getvmio/getvm-icons), e.g.: <https://cdn.jsdelivr.net/gh/getvmio/getvm-icons@main/icons/linux.png>
+You can use the icons by accessing the [jsDelivr CDN](https://www.jsdelivr.com/package/gh/getvmio/getvm-icons), e.g.: <https://cdn.jsdelivr.net/gh/getvmio/getvm-icons@main/icons/linux.png>
 
 | Logo | Raw SVG | Masked PNG |
 | --- | --- | --- |
@@ -19,7 +19,7 @@ You can use the icons by accessing the [JSdelivr CDN](https://www.jsdelivr.com/p
 1. Add logos to the `logos` folder.
 2. Run `mask.py` to generate masked logos, which will be saved in the `icons` folder.
 3. Commit and push the changes, then create a pull request, and we will review it.
-4. Once the pull request is merged, the new icons will be available on the [CDN](https://www.jsdelivr.com/package/gh/getvmio/getvm-icons).
+4. Once the pull request is merged, the new icons will be available on the [jsDelivr CDN](https://www.jsdelivr.com/package/gh/getvmio/getvm-icons).
 
 ## License
 
