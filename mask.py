@@ -125,6 +125,8 @@ def process_logos(base_icon_paths, raw_logos_dir, output_dir):
     # 遍历raw_logos目录
     for filename in os.listdir(raw_logos_dir):
         if filename.lower().endswith((".png", ".jpg", ".jpeg", ".gif", ".svg")):
+            # if filename != "d.svg":
+            #     continue
             try:
                 logo_path = os.path.join(raw_logos_dir, filename)
                 output_path = os.path.join(
